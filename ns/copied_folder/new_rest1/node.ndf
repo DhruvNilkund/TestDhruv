@@ -12,7 +12,8 @@
     <value name="modifiedBy">Administrator</value>
     <value name="lastModifiedDate">2026-07-08T05:02:06.008687529Z</value>
   </record>
-  <value name="is_public">false</value>
+  <value name="is_public">true</value>
+<value name="is_visible">true</value>
   <value name="displayName"></value>
   <value name="favorite"></value>
   <value name="tags"></value>
