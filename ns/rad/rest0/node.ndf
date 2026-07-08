@@ -11,7 +11,8 @@
     <value name="modifiedBy">Administrator</value>
     <value name="lastModifiedDate">2026-07-08T05:25:29.574486126Z</value>
   </record>
-  <value name="is_public">false</value>
+  <value name="is_public">true</value>
+  <value name="is_visible">true</value>
   <null name="sourceUri"/>
   <null name="swaggerUrl"/>
   <Boolean name="modifiable">true</Boolean>
