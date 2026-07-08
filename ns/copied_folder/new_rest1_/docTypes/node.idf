@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">copied_folder.new_rest1_.docTypes</value>
+  <value name="node_pkg">TestDhruv</value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">Administrator</value>
+    <value name="createdDate">2026-07-08T05:02:06.021891365Z</value>
+    <value name="modifiedBy">Administrator</value>
+    <value name="lastModifiedDate">2026-07-08T05:02:06.021891365Z</value>
+  </record>
+  <value name="is_public">false</value>
+</Values>
